@@ -1,0 +1,1 @@
+{\n  "name": "world-war-server",\n  "version": "1.0.0",\n  "description": "Server for World War game with WebSocket support",\n  "main": "server.js",\n  "dependencies": {\n    "ws": "^8.0.0"\n  }\n}
